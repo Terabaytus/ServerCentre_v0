@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: wm
+Class-Path: mysql/mysql-connector-java/5.1.40/mysql-connector-java-5.1
+ .40.jar
+Build-Jdk: 1.8.0_111
+Created-By: Maven Integration for Eclipse
+Main-Class: fully.qualified.Main
+
